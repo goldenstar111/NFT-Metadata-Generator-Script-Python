@@ -1,0 +1,22 @@
+{
+    "title": "Founder #1",
+    "description": "500 Scorpion NFT Fighters on the Binance Smart Chain. 1st PVP game on BSC",
+    "image": "ipfs://bafybeicygw3u2y2xj2drmmix6oihyzkyy46qeugnthdcpzisjwdcpdl4aa/2.png",
+    "edition": 1,
+    "tokenId": 0,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Founder"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "Lives",
+        "value": "75"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
